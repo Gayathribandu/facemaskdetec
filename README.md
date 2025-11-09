@@ -35,4 +35,4 @@ Press q to quit.
 ---
 
 ## 🧑‍💻 Author
-Aghosh K K
+gayathri s
